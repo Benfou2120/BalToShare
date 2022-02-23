@@ -1,0 +1,4 @@
+class Box{
+
+  String nomBox
+}
